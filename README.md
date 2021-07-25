@@ -1,3 +1,8 @@
+**Note:**
+
+This project has been merged into [unjoin](https://github.com/sjmulder/unjoin).
+___
+
 funjoin
 =======
 [![Build status](
